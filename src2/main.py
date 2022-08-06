@@ -1,4 +1,4 @@
-import dashboard
+from app import dashboard
 
 
 def start_db():
