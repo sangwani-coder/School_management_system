@@ -1,5 +1,6 @@
 # School_management_system
 Desktop application
+<img src="https://github.com/sangwani-coder/School_management_system/blob/main/img/dash.png">
 
 ### repository
 * School_management_system
